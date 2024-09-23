@@ -11,7 +11,7 @@ else:
 
 
 # Ejercicio 3: Contar Intentos de Entrada Inválida
-contador_intentos = 5
+contador_intentos = 0
 
 while True:
     letra = input("Introduce una letra: ").lower()
